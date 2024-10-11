@@ -40,3 +40,4 @@ while True:
     next_calculation = input("Хотите продолжить? (да/нет): ")
     if next_calculation.lower() != 'да':
         break
+print('Piska emir')
